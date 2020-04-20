@@ -2,8 +2,6 @@
 
 ---
 
-Given by: Courtney Shekleton
-
 ## Pyramid Word:
 
 Please write a web service that takes in a string and returns a boolean to indicate whether a word is a pyramid word. A word is a ‘pyramid’ word if you can arrange the letters in increasing frequency, starting with 1 and continuing without gaps and without duplicates.
@@ -21,12 +19,13 @@ You can use any language. When completed, please upload to a public repository, 
 -   Body Parser
 -   CORS
 
-Building and Running the Application
+## Building and Running the Application
+
 For the below commands, please make sure you're in the root directory of the application.
 
 Use the below command on your terminal to build the application.
 
-`mpm install`
+`npm install`
 
 Use the below command on your terminal to run the application
 
