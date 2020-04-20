@@ -29,7 +29,7 @@ Use the below command on your terminal to build the application.
 
 Use the below command on your terminal to run the application.
 
-`node server.js`
+`nodemon server.js`
 
 ### Note:
 

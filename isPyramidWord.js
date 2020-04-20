@@ -1,7 +1,5 @@
 // * isPyramidWord Exercise function * //
 function isPyramidWord(word) {
-    console.log('word from the function:', word);
-    console.log('type of word', typeof word);
     // Creates an array from the input word
     const sortedLetters = word.split('').sort();
 
@@ -12,7 +10,6 @@ function isPyramidWord(word) {
             : (letterTotals[letter] = 1);
         return letterTotals;
     }, {});
-    console.log('total letter counts:', totalLetterCounts);
     // This creates a sorted array of the amount of occurences of each letter
     const counts = Object.values(totalLetterCounts).sort();
     let isPyramid;
