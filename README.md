@@ -10,7 +10,7 @@ Please write a web service that takes in a string and returns a boolean to indic
 
 banana is a pyramid word because you have 1 'b', 2 'n's, and 3 'a's.
 bandana is not a pyramid word because you have 1 'b' and 1 'd'.
-You can use any language. When completed, please upload to a public repository, such as GitHub, and provide us with the link.
+You can use any language.
 
 ## Technologies used:
 
@@ -27,13 +27,13 @@ Use the below command on your terminal to build the application.
 
 `npm install`
 
-Use the below command on your terminal to run the application
+Use the below command on your terminal to run the application.
 
 `node server.js`
 
 ### Note:
 
-If some other service is running on port 8080, please edit application properties file under `isPyramidWord/server.js` folder to some other port number that's free
+If some other service is running on port 8080, please edit application properties file under `isPyramidWord/server.js` folder to some other port number that's free.
 
 ## Verifying Pyramid word
 
@@ -49,4 +49,4 @@ Once the application is running, enter the URL below with the word you want to t
 
 ### Note:
 
-Please make sure you change the port number in the URL as well if you change the port number in application.properties file.
+Please make sure you change the port number in the URL as well if you change the port number in the application's file.
