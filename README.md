@@ -44,8 +44,10 @@ Once the application is running, enter the URL below with the word you want to t
 ### Example:
 
 `true #=> http://localhost:8080/banana`
-`false #=> ttp://localhost:8080/bandana`
-`undefined #=> ttp://localhost:8080/1#&*+=3`
+
+`false #=> http://localhost:8080/bandana`
+
+`undefined #=> http://localhost:8080/1#&*+=3`
 
 ### Note:
 
