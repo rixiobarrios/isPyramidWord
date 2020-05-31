@@ -1,3 +1,5 @@
+![fetch](https://user-images.githubusercontent.com/55994508/83357723-ba270380-a333-11ea-9476-038c274186da.gif)
+
 # FetchRewards Exercise
 
 ---
